@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-## Task 2: Enhancing Customer Loyalty and Sales Performance Report
+## Task 2: DATA-INTEGRATION-FROM-MULTIPLE-SOURCES
 
 In Task 2, we focused on enhancing the **Customer Loyalty and Sales Performance Report** by refining data visualization, integrating filters, and improving user interactivity. The key objective was to ensure that the report effectively conveys insights regarding sales distribution and customer loyalty segmentation while enabling users to interact with and analyze data dynamically.
 
